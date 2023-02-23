@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "noEmit": true,
+        "module": "ESNext",
+        "jsx": "react",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "isolatedModules": true,
+        "allowUmdGlobalAccess": true,
+        "sourceMap": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+}
